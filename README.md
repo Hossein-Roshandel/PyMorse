@@ -24,6 +24,9 @@ if __name__ == '__main__':
 
 
 ```
+## Morse Code Table API
+If you need the Morse Code table for your coding projects, you can send a GET request to the endpoint [https://www.hossein.codes/morse-code/table](https://www.hossein.codes/morse-code/table) and you will receive back the table in JSON format. 
+
 
 ## Sources:
 The Morse Code table has been compiled by combining the resources from the following websites:
